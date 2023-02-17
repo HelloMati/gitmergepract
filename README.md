@@ -1,1 +1,7 @@
-# some new content that will cause a conflict
+README
+
+This is my README file!
+another
+
+writing more words
+# My readme
