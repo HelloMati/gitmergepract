@@ -1,5 +1,5 @@
 README
 
-New Stuff on line 3!
+New stud on line!
 
 writing more words
